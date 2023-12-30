@@ -1,6 +1,5 @@
 ## 대문 공사중 👋
-## 프로필 사진은 임시입니다!
-
+임시 사용 프로필 사진 업로드 완료
 <!--
 
 **Here are some ideas to get you started:**
