@@ -1,8 +1,55 @@
 ## 스터디 소개
+<div align="center">
+<img width="300" src="https://github.com/CHZZK-Study/.github/assets/73704053/54c2d6a2-25ef-436f-8370-1dabe7563530">
 
-## 프로젝트
+'취지직' 스터디는 '우아한테크코스 6기 프리코스' 참가자들이 모여 만들어진 개발자 취업 & 프로젝트 스터디입니다.
+
+6기 프리코스의 핵심 주제였던 '몰입' 을 스터디의 지향점으로 삼고 있으며,
+
+개발 프로젝트, 미니 스터디, 네트워킹 등의 다양한 활동을 하고 있습니다.
+
+<div align="left">
+  
+## 진행 중인 프로젝트
+
+### [잔디 일기 🍀](https://grassdiary.site/)
+#### [Client (Github)](https://github.com/CHZZK-Study/Grass-Diary-Client)
+#### [Server (Github)](https://github.com/CHZZK-Study/Grass-Diary-Server)
+
+"잔디일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다.
+
+사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다.
+
+<div align="center">
+
+<img width="300" src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3">
+
+<div align="left">
+
+In Progress : 24.02.02 ~
+
+---
+
+### [밸런스톡 🗳️](https://balancetalk.kro.kr/)
+#### [Client (Github)](https://github.com/CHZZK-Study/Grass-Diary-Client)
+#### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
+
+다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 밸런스톡입니다.
+<div align="center">
+
+<img width="300" src="https://github.com/CHZZK-Study/Balance-Talk-Backend/assets/110653660/db63193c-b4cc-4e55-ab47-c1eb83debf8e">
+
+<div align="left">
+
+In Progress : 24.02.07 ~
 
 ## 미니 스터디
+
+### [면접 대비 CS](https://github.com/CHZZK-Study/cs-study)
+
+### [Effective Java](https://github.com/CHZZK-Study/Effective-java-study)
+
+### [바닐라 자바스크립트](https://github.com/CHZZK-Study/Vanilla-JS-Study)
 
 ## 👨‍👨‍👧‍👧 멤버
 *PL : Project Leader*
