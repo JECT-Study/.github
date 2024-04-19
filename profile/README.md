@@ -31,7 +31,7 @@ In Progress : 24.02.02 ~
 ---
 
 ### [밸런스톡 🗳️](https://balancetalk.kro.kr/)
-#### [Client (Github)](https://github.com/CHZZK-Study/Grass-Diary-Client)
+#### [Client (Github)](https://github.com/CHZZK-Study/Balance-Talk-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
 
 다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 밸런스톡입니다.
