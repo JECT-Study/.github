@@ -52,6 +52,13 @@ In Progress : 24.02.07 ~
 ### [바닐라 자바스크립트](https://github.com/CHZZK-Study/Vanilla-JS-Study)
 
 ## 👨‍👨‍👧‍👧 멤버
+<div align="center">
+<img width="1000" src="https://github.com/CHZZK-Study/.github/assets/73704053/a19c8fc6-7b55-485b-b2ed-3e40a9fe6f05">
+
+💙 **CHZZK 1회 오프라인 모임** 💙
+
+<div align="left">
+  
 *PL : Project Leader*
 
 |                                     Backend (스터디장)                                      |                                         Backend 1기                                         |                                         Backend 1기                                        |                                          Backend 1기                                         |                                         Backend (PL) 1기                                         |
