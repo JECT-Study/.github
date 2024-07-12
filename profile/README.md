@@ -97,16 +97,25 @@ In Progress : 24.02.07 ~
 | <img src="https://avatars.githubusercontent.com/u/53222742?v=4" width=150px alt="오영"/> | <img src="https://avatars.githubusercontent.com/u/94692566?v=4" width=150px alt="한멋감"/> | <img src="https://avatars.githubusercontent.com/u/93777385?v=4" width=150px alt="오르트"/> | <img src="https://avatars.githubusercontent.com/u/89385423?v=4" width=150px alt="장석원"/> | <img src="https://avatars.githubusercontent.com/u/121474189?v=4" width=150px alt="지민"/> |
 |                          [@oyeong011](https://github.com/oyeong011)                          |                           [@areumH](https://github.com/areumH)                           |                          [@CLOUDoort](https://github.com/CLOUDoort)                           |                          [@aquaman122](https://github.com/aquaman122)                          |                         [@JIMIN1020](https://github.com/JIMIN1020)                          |
 
-|                                     DevOps 1기                                      |
-| :--------------------------------------------------------------------------------------: |  
-| <img src="https://avatars.githubusercontent.com/u/77189999?v=4" width=150px alt="재혁"/> |
-| [@jjaegii](https://github.com/jjaegii)
+|                                     UI/UX 2기                                      |                                         UI/UX 2기                                         |                                         UI/UX 2기                                         |                                         UI/UX 2기                                         |          UI/UX 2기      |   
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/0bc896b6-4419-4b3f-acdd-089f6bcd4438" height=150px width=150px alt="지수"/> | <img src="https://github.com/user-attachments/assets/d908a005-42f2-4ec5-b710-d251825c6548" height=150px width=150px alt="효선"/> | <img src="https://github.com/user-attachments/assets/b38da4f5-f556-4005-a47c-07f518cc36cc" height=150px width=150px alt="유경"/> | <img src="https://github.com/user-attachments/assets/5d8ab703-f661-432a-bef5-7076f37b6d81" height=150px width=150px alt="민휘"/> | <img src="https://github.com/user-attachments/assets/48e2070a-5b20-44b2-a760-831685a53736" height=150px width=150px alt="지민"/> |
+|                          [@HanJiSu](https://drive.google.com/drive/folders/1r-q1kbLTWuzYduFlEHF_gJYQR-zxLGn4?usp=drive_link)                          |                           [@KyungHyoSeon](hhy_0@naver.com)                           |                          [@GwonYuGyeong](https://www.behance.net/e6da1d63)                           |                          [@KimMinHwi](alsgnl980412@gmail.com)                          |                         [@KimYuHui](https://www.behance.net/48a52c1d)                          |
+
+|                                     UI/UX 2기                                      |                                     UI/UX 2기                                      |                                     UI/UX 2기                                      |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |    
+| <img src="https://github.com/user-attachments/assets/7edcb296-638d-4ef6-8853-0097f500f2f4" width=150px alt="별"/> | <img src="https://avatars.githubusercontent.com/u/134907256?v=4" width=150px height=150px alt="동나"/> | <img src="https://github.com/user-attachments/assets/45f8ca43-321d-4797-bbe1-a5dc55760568" height=150px width=150px alt="은수"/> 
+| [@loeybho](https://github.com/loeybho)| [@dongna16](https://github.com/dongna16) |  [@LeeEunSu](www.google.com) |
 
 |                                     PM 1기                                      |                                     PM 2기                                      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |    
-| <img src="https://github.com/user-attachments/assets/7c8d8eb4-609d-44fe-9648-be9f774ab1a9" width=150px height=150px alt="아연"/> | <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/> |
+| <img src="https://github.com/user-attachments/assets/7c8d8eb4-609d-44fe-9648-be9f774ab1a9" width=150px height=150px alt="아연"/> | <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/> 
 | [@aycho](https://www.naver.com) |  [@kyejin0412](https://github.com/kyejin0412) |
 
+|                                     DevOps 1기                                      |
+| :--------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/77189999?v=4" width=150px alt="재혁"/> |
+| [@jjaegii](https://github.com/jjaegii)|
 <!--
 
 **Here are some ideas to get you started:**
