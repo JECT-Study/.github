@@ -102,6 +102,11 @@ In Progress : 24.02.07 ~
 | <img src="https://avatars.githubusercontent.com/u/77189999?v=4" width=150px alt="재혁"/> |
 | [@jjaegii](https://github.com/jjaegii)
 
+|                                     PM 1기                                      |                                     PM 2기                                      |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |    
+| <img src="https://github.com/user-attachments/assets/7c8d8eb4-609d-44fe-9648-be9f774ab1a9" width=150px height=150px alt="아연"/> | <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/> |
+| [@aycho](https://www.naver.com) |  [@kyejin0412](https://github.com/kyejin0412) |
+
 <!--
 
 **Here are some ideas to get you started:**
