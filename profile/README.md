@@ -30,15 +30,15 @@ In Progress : 24.02.02 ~
 
 ---
 
-### [밸런스톡 🗳️](https://balancetalk.kro.kr/)
+### [PICK-O 🗳️](https://balancetalk.kro.kr/)
 #### [Client (Github)](https://github.com/CHZZK-Study/Balance-Talk-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
 
-다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 밸런스톡입니다.
+다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다.
 <div align="center">
-
-<img width="300" src="https://github.com/CHZZK-Study/Balance-Talk-Backend/assets/110653660/db63193c-b4cc-4e55-ab47-c1eb83debf8e">
-
+</br></br>
+<img width="300" src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a">
+</br></br></br>
 <div align="left">
 
 In Progress : 24.02.07 ~
