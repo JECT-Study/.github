@@ -11,94 +11,66 @@
   
 ## 완료된 프로젝트
 
-### [HowMeet 🙋🏻](https://www.howmeet.site/)
+|                                    1기, 2기 | [HowMeet 🙋🏻]: 그래서 우리 언제 되는거야?  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/999304d4-968d-46c8-bc08-0e98bb927fe5" width=300px alt="하우밋"/> | <img src="https://github.com/user-attachments/assets/c9563ea8-c809-43ed-bc2e-a6a795e22fd2" width=600px alt="소개"/> |
+|                          [서비스 Link](https://www.howmeet.site/)                          | HowMeet은 바쁜 일상 속에서 여러 사람의 일정을 효율적으로 조율하고, 교집합 시간을 시각화해 공유 할 수 있는 앱을 통해 회의 일정을 간편하게 조율할 수 있는 서비스입니다. |
+
+
 #### [Client (Github)](https://github.com/CHZZK-Study/HOWMeet-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/HOWMeet-Backend)
-<div align="center">
-
-<img width="300" src="https://github.com/user-attachments/assets/999304d4-968d-46c8-bc08-0e98bb927fe5">
-</br>
-<div align="left">
-
-<div align="center">
-  
-### HowMeet: 그래서 우리 언제 되는거야?
-
-</br>
-HowMeet은 바쁜 일상 속에서 여러 사람의 일정을 효율적으로 조율하고,</br>
-교집합 시간을 시각화해 공유 할 수 있는 앱을 통해 회의 일정을 간편하게 조율할 수 있는 서비스입니다.
-
-</br>
-<img width="800" src="https://github.com/user-attachments/assets/c9563ea8-c809-43ed-bc2e-a6a795e22fd2">
-<div align="left">
 
 </br>
 24.07.14 ~ 24.10.13
 
 ---
 
-### [잔디 일기 🍀](https://grassdiary.site/)
-#### [Client (Github)](https://github.com/CHZZK-Study/Grass-Diary-Client)
-#### [Server (Github)](https://github.com/CHZZK-Study/Grass-Diary-Server)
+|                                    1기 | [잔디 일기 🍀]: 일상의 작은 기록, 큰 성장으로  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3" width=380px alt="잔디일기"/> | <img src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628" width=600px alt="소개"/> |
+|                          [서비스 Link](https://grassdiary.site/)                          | "잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다. 사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다. |
 
-<div align="center">
+#### [Client (Github)](https://github.com/CHZZK-Study/Balance-Talk-Frontend)
+#### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
 
-<img width="300" src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3">
-
-### 잔디 일기: 일상의 작은 기록, 큰 성장으로
-
-"잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다.</br>
-사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다.
-</br>
-
-<div align="center">
-<img width="800" src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628">
-<div align="left">
 </br>
 24.02.01 ~ 24.10.07
 
 ---
 
-### [치즈 마켓 🧀](https://chzzmarket.vercel.app/)
+|                                    1기, 2기 | [PICK-O 🗳️]: 밸런스 게임 커뮤니티  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a" width=217px alt="PICK-O"/> | <img src="https://github.com/user-attachments/assets/b0ea4093-d2d0-4e13-a748-5118b12425ac" width=600px alt="소개"/> |
+|                          [서비스 Link](https://pick0.com/)                          | 다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다. |
+
+#### [Client (Github)](https://github.com/JECT-Study/PICK-O-Client)
+#### [Server (Github)](https://github.com/JECT-Study/PICK-O-Server)
+
+</br>
+24.02.01 ~ In progress
+
+---
+|                                   2기 | [치즈 마켓 🧀]: 합리적인 가격의 중고 경매 플랫폼  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e" width=345px alt="치즈 마켓"/> | <img src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0" width=600px alt="소개"/> |
+|                          [서비스 Link](https://pick0.com/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다. 안전하고 신뢰성 있는 거래 환경을 제공하여, 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
+
 #### [Client (Github)](https://github.com/CHZZK-Study/Chzz-Market-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/Chzz-Market-Backend)
-<div align="center">
-<img width="300" src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e">
-</br></br>
 
-### 치즈 마켓: 합리적인 가격의 중고 경매 플랫폼
-치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다. </br>
-안전하고 신뢰성 있는 거래 환경을 제공하여, 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.
-
-<div align="center">
-<img width="800" src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0">
-<div align="left">
 </br>
-24.06.27 ~ 24.10.31
+24.02.07 ~ 24.10.31
 
 ---
 
-## 진행중인 프로젝트
+## 진행중인 미니 스터디
 
-### [PICK-O 🗳️](https://balancetalk.kro.kr/)
-#### [Client (Github)](https://github.com/CHZZK-Study/Balance-Talk-Frontend)
-#### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
+|                                  Figma 오토 레이아웃, 컴포넌트 딥하게 파고들기 | 서비스 역기획스터디 |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/2590e2a3-b635-40c3-8939-a2a4ee42ac5f" width=600px alt="소개"/> | <img src="https://github.com/user-attachments/assets/1cc1bedd-861c-4490-8c7c-1acf6252ad25" width=600px alt="소개"/> |
+|                          [스터디 Link](https://cultured-phalange-7de.notion.site/Figma-b77fd362d2c140f19caf1ea2ee017580?pvs=4)                          | [스터디 Link](https://cultured-phalange-7de.notion.site/a9d6ce2800c2417eb8fb0e33271de522?pvs=4) |
 
-<div align="center">
-</br></br>
-<img width="300" src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a">
-</br></br></br>
-
-### PICK-O: 밸런스 게임 커뮤니티
-다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다.
-</br></br>
-<div align="center">
-<img width="800" src="https://github.com/user-attachments/assets/b0ea4093-d2d0-4e13-a748-5118b12425ac">
-<div align="left">
-</br>
-In Progress : 24.02.07 ~
-
-## 미니 스터디
+## 종료된 미니 스터디
 
 ### [면접 대비 CS](https://github.com/CHZZK-Study/cs-study)
 
@@ -106,18 +78,26 @@ In Progress : 24.02.07 ~
 
 ### [바닐라 자바스크립트](https://github.com/CHZZK-Study/Vanilla-JS-Study)
 
-## 🙋🏻 오프라인 모임 
+## 🙋🏻 오프라인 행사 
+</br>
+
+<div align="center">
+<img width="1000" src="https://github.com/user-attachments/assets/c9da3ba6-4261-48df-b3b0-772f001bf8b4">
+
+🎉 **JECT 2기 2차 데모데이 (25.02.15)** 🎉
+
+</br>
 <div align="center">
 <img width="1000" src="https://github.com/CHZZK-Study/.github/assets/73704053/a19c8fc6-7b55-485b-b2ed-3e40a9fe6f05">
 
-💙 **JECT 1회 오프라인 모임** 💙
+💙 **JECT 1회 오프라인 모임 (24.05.26)** 💙
 </br>
 
 <div align="center">
 <img width="1000" src="https://github.com/user-attachments/assets/f8e47379-c911-4884-a521-0991795b1331">
   
-♥️ **JECT 2회 오프라인 모임** ♥️
-</br>
+♥️ **JECT 2회 오프라인 모임 (24.09.21)** ♥️
+
 <div align="left">
 
 ## 👨‍👨‍👧‍👧 멤버
@@ -177,7 +157,7 @@ In Progress : 24.02.07 ~
 
 |                                     PM 1기                                      |                                     PM 2기                                      |                                     PM 2기                                      |                                     PM 2기                                      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |        
-| <img src="https://github.com/user-attachments/assets/03d18df4-489b-491b-963b-64f1df9568b6" width=150px height=150px alt="아연"/> | <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/>|  <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/>|  <img src="https://github.com/user-attachments/assets/d99c410c-baa7-4606-9976-5cc7b5cd78c1" width=150px height=150px alt="소정은"/>|
+| <img src="https://github.com/user-attachments/assets/03d18df4-489b-491b-963b-64f1df9568b6" width=150px height=150px alt="아연"/> | <img src="https://github.com/user-attachments/assets/449c28c1-bf2f-4637-8982-a2b4c03230a9" width=150px alt="예진"/>|  <img src="https://github.com/user-attachments/assets/c53dc587-dfea-4b40-bd00-a1be4e8f7ea1" width=150px height=170px alt="세은"/>|  <img src="https://github.com/user-attachments/assets/d99c410c-baa7-4606-9976-5cc7b5cd78c1" width=150px height=150px alt="소정은"/>|
 | [@aycho](https://www.naver.com) |  [@kyejin0412](https://github.com/kyejin0412) | @Seeun |  @Grace |
 
 |                                     DevOps 1기                                      |
