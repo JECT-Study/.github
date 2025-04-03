@@ -55,7 +55,7 @@
 |                                   2기 | [치즈 마켓 🧀]: 합리적인 가격의 중고 경매 플랫폼  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e" width=345px alt="치즈 마켓"/> | <img src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0" width=600px alt="소개"/> |
-|                          [서비스 Link](https://pick0.com/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다. 안전하고 신뢰성 있는 거래 환경을 제공하여, 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
+|                          [서비스 Link](https://chzzmarket.store/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다. 안전하고 신뢰성 있는 거래 환경을 제공하여, 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
 
 #### [Client (Github)](https://github.com/CHZZK-Study/Chzz-Market-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/Chzz-Market-Backend)
