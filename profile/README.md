@@ -32,8 +32,8 @@
 | <img src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3" width=380px alt="잔디일기"/> | <img src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628" width=600px alt="소개"/> |
 |                          [서비스 Link](https://grassdiary.site/)                          | "잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다. 사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다. |
 
-#### [Client (Github)](https://github.com/CHZZK-Study/Balance-Talk-Frontend)
-#### [Server (Github)](https://github.com/CHZZK-Study/Balance-Talk-Backend)
+#### [Client (Github)](https://github.com/JECT-Study/Grass-Diary-Client)
+#### [Server (Github)](https://github.com/JECT-Study/Grass-Diary-Server)
 
 </br>
 24.02.01 ~ 24.10.07
