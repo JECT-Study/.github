@@ -1,4 +1,4 @@
-## 스터디 소개
+## 동아리 소개
 <div align="center">
 <img width="300" src="https://github.com/user-attachments/assets/03f6ce41-6b44-477a-9189-2763fca677d1">
 
