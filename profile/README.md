@@ -13,10 +13,38 @@
   
 ## 완료된 프로젝트
 
-|                                    1기, 2기 | [HowMeet 🙋🏻]: 그래서 우리 언제 되는거야?  |
+|                                    2기 | [컴포노트 🫙]: 디자인 컴포넌트 아카이브, 컴포노트  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/25c4eb4c-c71e-44b0-959d-8fdc63be428a" width=300px alt="컴포노트로고"/> | <img src="https://github.com/user-attachments/assets/4b42dff7-686d-4203-878b-999c83426dac" width=600px alt="소개"/> |
+|                                                   | 컴포노트는 디자이너와 개발자, 기획자 등 IT 관련 직군들에게<br> 사용자 인터페이스 구축에 사용되는 컴포넌트에 대한 정보와 인사이트를 제공하는 서비스입니다. |
+
+
+#### [Client (Github)](https://github.com/JECT-Study/Componote-FE)
+#### [Server (Github)](https://github.com/JECT-Study/Componote-BE-WAS)
+
+</br>
+24.11.18 ~ 25.02.15
+
+---
+
+|                                    2기 | [Momentia 🖼️]: 무명 예술가를 위한 온라인 작품 전시 플랫폼  |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/550787d7-f031-4cef-b461-353a58a16b48" width=300px alt="컴포노트로고"/> | <img src="https://github.com/user-attachments/assets/8984d84d-224e-44ad-9d37-a0dd439f6dda" width=600px alt="소개"/> |
+|                                                   | 모멘티아(Momentia)는 '무명 예술가를 위한 온라인 작품 전시 플랫폼'입니다.<br> 순간을 뜻하는 'Moment'와 공간을 뜻하는 접미사 '-ia'를 결합하여<br> ‘예술가들의 순간을 위한 공간’이라는 의미를 지니고 있습니다. |
+
+
+#### [Client (Github)](https://github.com/JECT-Study/Momentia-FE)
+#### [Server (Github)](https://github.com/JECT-Study/Momentia-BE)
+
+</br>
+24.11.18 ~ 25.02.15
+
+---
+
+|                                    1기 | [HowMeet 🙋🏻]: 그래서 우리 언제 되는거야?  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/999304d4-968d-46c8-bc08-0e98bb927fe5" width=300px alt="하우밋"/> | <img src="https://github.com/user-attachments/assets/c9563ea8-c809-43ed-bc2e-a6a795e22fd2" width=600px alt="소개"/> |
-|                          [서비스 Link](https://www.howmeet.site/)                          | HowMeet은 바쁜 일상 속에서 여러 사람의 일정을 효율적으로 조율하고, 교집합 시간을 시각화해 공유 할 수 있는 앱을 통해 회의 일정을 간편하게 조율할 수 있는 서비스입니다. |
+|                                                   | HowMeet은 바쁜 일상 속에서 여러 사람의 일정을 효율적으로 조율하고,<br> 교집합 시간을 시각화해 공유 할 수 있는 앱을 통해 회의 일정을 간편하게 조율할 수 있는 서비스입니다. |
 
 
 #### [Client (Github)](https://github.com/CHZZK-Study/HOWMeet-Frontend)
@@ -30,7 +58,7 @@
 |                                    1기 | [잔디 일기 🍀]: 일상의 작은 기록, 큰 성장으로  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3" width=380px alt="잔디일기"/> | <img src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628" width=600px alt="소개"/> |
-|                          [서비스 Link](https://grassdiary.site/)                          | "잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다. 사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다. |
+|                                                | "잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다.<br>사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다. |
 
 #### [Client (Github)](https://github.com/JECT-Study/Grass-Diary-Client)
 #### [Server (Github)](https://github.com/JECT-Study/Grass-Diary-Server)
@@ -40,10 +68,10 @@
 
 ---
 
-|                                    1기, 2기 | [PICK-O 🗳️]: 밸런스 게임 커뮤니티  |
+|                                    1기 | [PICK-O 🗳️]: 밸런스 게임 커뮤니티  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a" width=217px alt="PICK-O"/> | <img src="https://github.com/user-attachments/assets/b0ea4093-d2d0-4e13-a748-5118b12425ac" width=600px alt="소개"/> |
-|                          [서비스 Link](https://pick0.com/)                          | 다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고, 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다. |
+|                          [서비스 Link](https://pick0.com/)                          | 다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고,<br> 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다. |
 
 #### [Client (Github)](https://github.com/JECT-Study/PICK-O-Client)
 #### [Server (Github)](https://github.com/JECT-Study/PICK-O-Server)
@@ -52,10 +80,10 @@
 24.02.01 ~ In progress
 
 ---
-|                                   2기 | [치즈 마켓 🧀]: 합리적인 가격의 중고 경매 플랫폼  |
+|                                   1기 | [치즈 마켓 🧀]: 합리적인 가격의 중고 경매 플랫폼  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e" width=345px alt="치즈 마켓"/> | <img src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0" width=600px alt="소개"/> |
-|                          [서비스 Link](https://chzzmarket.store/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다. 안전하고 신뢰성 있는 거래 환경을 제공하여, 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
+|                          [서비스 Link](https://chzzmarket.store/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다.<br> 안전하고 신뢰성 있는 거래 환경을 제공하여,<br> 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
 
 #### [Client (Github)](https://github.com/CHZZK-Study/Chzz-Market-Frontend)
 #### [Server (Github)](https://github.com/CHZZK-Study/Chzz-Market-Backend)
