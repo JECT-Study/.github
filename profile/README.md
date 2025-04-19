@@ -7,7 +7,7 @@
 **참여하고, 즐기고, 함께 만들어 나가고,**</br>
 다양한 직군들과 협업하며 **즐겁게 몰입**하는 것을 지향하고 있어요!
 
-[공식 홈페이지](https://slashpage.com/ject)
+[공식 홈페이지](https://ject.kr/)
 
 <div align="left">
   
