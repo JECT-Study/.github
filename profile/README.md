@@ -1,8 +1,8 @@
 ## 동아리 소개
 <div align="center">
-<img width="300" src="https://github.com/user-attachments/assets/03f6ce41-6b44-477a-9189-2763fca677d1">
+<img width="1500" height="600" alt="JECT_GitHub_Banner" src="https://github.com/user-attachments/assets/610de2e4-1bfa-497c-867b-795a645c3e86" />
 
-**'JECT'** 는 IT 사이드 프로젝트 동아리입니다.</br>
+**'젝트'** 는 IT 사이드 프로젝트 동아리입니다.</br>
 
 **참여하고, 즐기고, 함께 만들어 나가고,**</br>
 다양한 직군들과 협업하며 **즐겁게 몰입**하는 것을 지향하고 있어요!
@@ -57,7 +57,7 @@
 
 |                                    1기 | [잔디 일기 🍀]: 일상의 작은 기록, 큰 성장으로  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| <img src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3" width=380px alt="잔디일기"/> | <img src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628" width=600px alt="소개"/> |
+| <img src="https://github.com/CHZZK-Study/.github/assets/73704053/c0d292ec-d9f9-4af1-8afb-d8fa017ff6f3" width=370px alt="잔디일기"/> | <img src="https://github.com/user-attachments/assets/e5076091-ae3e-499d-856f-99d28e264628" width=600px alt="소개"/> |
 |                                                | "잔디 일기"는 일상의 작은 기록들을 잔디처럼 자라나게 하여 큰 성장으로 이어지게 하는 서비스입니다.<br>사용자는 매일의 일기를 통해 자신의 생각과 감정, 그리고 경험을 기록하며, 이 작은 기록들이 모여 하나의 큰 이야기를 만들어갑니다. |
 
 #### [Client (Github)](https://github.com/JECT-Study/Grass-Diary-Client)
@@ -70,7 +70,7 @@
 
 |                                    1기 | [PICK-O 🗳️]: 밸런스 게임 커뮤니티  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a" width=217px alt="PICK-O"/> | <img src="https://github.com/user-attachments/assets/b0ea4093-d2d0-4e13-a748-5118b12425ac" width=600px alt="소개"/> |
+| <img src="https://github.com/user-attachments/assets/9ff8c7c1-0f58-49e3-a495-00daa143353a" width=300px alt="PICK-O"/> | <img src="https://github.com/user-attachments/assets/b0ea4093-d2d0-4e13-a748-5118b12425ac" width=600px alt="소개"/> |
 |                          [서비스 Link](https://pick0.com/)                          | 다양한 주제의 밸런스 게임을 통해 선호하는 선택지를 고르고,<br> 다른 의견을 가진 사람들과 토론을 즐기는 서비스 PICK-O 입니다. |
 
 #### [Client (Github)](https://github.com/JECT-Study/PICK-O-Client)
@@ -82,7 +82,7 @@
 ---
 |                                   1기 | [치즈 마켓 🧀]: 합리적인 가격의 중고 경매 플랫폼  |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e" width=345px alt="치즈 마켓"/> | <img src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0" width=600px alt="소개"/> |
+| <img src="https://github.com/user-attachments/assets/f0bfdc07-60ad-4d6c-9896-8677465aa08e" width=300px alt="치즈 마켓"/> | <img src="https://github.com/user-attachments/assets/fc88373d-dc52-473d-8817-1318767678b0" width=600px alt="소개"/> |
 |                          [서비스 Link](https://chzzmarket.store/)                          | 치즈 마켓은 중고 물품을 경매를 통해 합리적인 가격에 구매하고 판매할 수 있는 플랫폼입니다.<br> 안전하고 신뢰성 있는 거래 환경을 제공하여,<br> 구매자와 판매자가 모두 만족할 수 있는 편리한 거래 경험을 지원합니다.|
 
 #### [Client (Github)](https://github.com/CHZZK-Study/Chzz-Market-Frontend)
@@ -112,21 +112,29 @@
 </br>
 
 <div align="center">
-<img width="1000" src="https://github.com/user-attachments/assets/c9da3ba6-4261-48df-b3b0-772f001bf8b4">
+<img width="1000" src="https://github.com/user-attachments/assets/c48bbcb5-e144-406a-a40c-55cc6d2389d2">
 
-🎉 **JECT 2기 2차 데모데이 (25.02.15)** 🎉
+**젝트 3기 온보딩 (25.05.18)**
 
 </br>
-<div align="center">
-<img width="1000" src="https://github.com/CHZZK-Study/.github/assets/73704053/a19c8fc6-7b55-485b-b2ed-3e40a9fe6f05">
 
-💙 **JECT 1회 오프라인 모임 (24.05.26)** 💙
+<div align="center">
+<img width="1000" src="https://github.com/user-attachments/assets/c9da3ba6-4261-48df-b3b0-772f001bf8b4">
+
+**젝트 2기 2차 데모데이 (25.02.15)**
+
 </br>
 
 <div align="center">
 <img width="1000" src="https://github.com/user-attachments/assets/f8e47379-c911-4884-a521-0991795b1331">
   
-♥️ **JECT 2회 오프라인 모임 (24.09.21)** ♥️
+**젝트 2회 오프라인 모임 (24.09.21)**
+
+</br>
+<div align="center">
+<img width="1000" src="https://github.com/CHZZK-Study/.github/assets/73704053/a19c8fc6-7b55-485b-b2ed-3e40a9fe6f05">
+
+**젝트 1회 오프라인 모임 (24.05.26)**
 
 <div align="left">
 
