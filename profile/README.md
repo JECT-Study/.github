@@ -1,4 +1,4 @@
-<img width="1500" height="600" alt="JECT_GitHub_Banner" src="https://github.com/user-attachments/assets/610de2e4-1bfa-497c-867b-795a645c3e86" />
+<img width="1500" height="600" alt="JECT_GitHub_Banner" src="https://github.com/user-attachments/assets/385ef29f-ee50-4603-a39f-10e00bb7402c" />
   
 # 젝트는 대한민국의 IT 동아리입니다
 우리는 IT 기술과 문제해결적 사고로 더 좋은 미래를 만들어내기 위해 활동하는 동아리입니다.
@@ -6,9 +6,11 @@
 그 밖에도 전문분야에 대한 기술 학습과 네트워킹을 병행하며 함께 성장하는 것을 목표로 하고 있습니다.
 모든 젝트 구성원들은 협업과 성장의 즐거움을 널리 알리며 IT 생태계의 선순환을 위해 활동합니다.
 
+
 ## 공식 웹사이트/서비스/자료
 * 젝트 공식 웹사이트: https://ject.kr/
 * 젝트 디자인 시스템(JDS): https://www.figma.com/community/file/1547190026603503566/jds
+
 
 # 협업 프로젝트
 ## 진행 중
@@ -23,6 +25,7 @@
 | ![Image](https://github.com/user-attachments/assets/3c0de2be-ace5-47d5-96c0-f609c5858dc8)| **스터디트립** | 목표를 위한 하나의 여행, 스터디 트립 | 서비스 URL: [StudyTrip](https://ject-4-client.vercel.app/) </br> Client:[JECT-Study/JECT-4-client](https://github.com/JECT-Study/JECT-4-client) <br> Server:[JECT-Study/StudyTrip-Server](https://github.com/JECT-Study/StudyTrip-Server)|
 | <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/4127e9e6-fecd-4f76-a0e3-a87ec4b4ebce" />| **Re:creation** | 별도의 준비 없이 웹에서 바로 즐길 수 있는 레크리에이션 플랫폼으로, <br>즐거운 몰입 속에서 팀원 간의 소통과 신뢰를 다시 만드는 경험을 제공합니다 | 서비스 URL: [Re:creation](https://re-creation.vercel.app/) </br> Client:[JECT-Study/JECT-5-FE](https://github.com/JECT-Study/JECT-5-FE) <br> Server: [JECT-Study/Re.creation-BE](https://github.com/JECT-Study/Re.creation-BE) |
 | <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/bb66410a-e8f3-42b8-9b68-accdfefc6781" />| **스팟잇** | 팝업 스토어 정보를 제공하고 현장에서 온라인으로 웨이팅할 수 있는 팝업 큐레이팅 서비스 | 서비스 URL: [spot it!](https://www.spotit.co.kr/) </br> Client:[JECT-Study/JECT-3th-6team](https://github.com/JECT-Study/JECT-3th-6team) <br> Server:[JECT-Study/JECT-3th-6team](https://github.com/JECT-Study/JECT-3th-6team) |
+
 
 # 구성원
 <!-- ## 운영 서포터즈
@@ -58,11 +61,11 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | PM [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) |PM [@손혜림](https://codingwithson.tistory.com/) | PD [@길윤서](https://m.blog.naver.com/gys111210) | PD [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | PD [@김예진](https://www.linkedin.com/feed/) |
 
-| <img src="https://github.com/user-attachments/assets/67899701-e7f1-4d78-9952-f7da8a321cfe" width=150px alt="윤소연"/> | <img src="https://github.com/user-attachments/assets/551cdade-5460-4c49-a37a-998ad7d99eaa" width=150px alt="권지영"/> | <img src="https://github.com/user-attachments/assets/63b8f9e6-40e2-4735-84ed-12ceb72e1d69" width=150px height = 150px alt="이채원"/> | <img src="https://github.com/user-attachments/assets/1cc5f4ff-ee85-4d17-9f2c-f6b282803246" width=150px alt="봉예잔"/> | <img src="https://github.com/user-attachments/assets/e5263192-0abf-48eb-b531-a1d981a44074" width=150px alt="홍수경"/> |
+| <img src="https://github.com/user-attachments/assets/67899701-e7f1-4d78-9952-f7da8a321cfe" width=150px alt="윤소연"/> | <img src="https://github.com/user-attachments/assets/551cdade-5460-4c49-a37a-998ad7d99eaa" width=150px alt="권지영"/> | <img src="https://github.com/user-attachments/assets/63b8f9e6-40e2-4735-84ed-12ceb72e1d69" width=150px height = 150px alt="이채원"/> | <img src="https://github.com/user-attachments/assets/1cc5f4ff-ee85-4d17-9f2c-f6b282803246" width=150px height = 150px alt="봉예진"/> | <img src="https://github.com/user-attachments/assets/e5263192-0abf-48eb-b531-a1d981a44074" width=150px alt="홍수경"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | PD [@윤소연](https://www.linkedin.com/in/soyeonyun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | PD [@권지영](https://blog.naver.com/kwonji1234)| PD @이채원 | PD @봉예진 | PD @홍수경 |
 
-| <img src="Image" src="https://github.com/user-attachments/assets/57577eee-5967-40e5-8a90-152fd6e5c5a6" width=150px alt="김혜림"/> | <img src="https://github.com/user-attachments/assets/b9976828-ceeb-42c5-b5e3-e264bf436d06" width=150px alt="정철호"/> | <img src="https://github.com/user-attachments/assets/31542ca9-ee53-42e6-8251-9efa1ab2fe62" width=150px alt="이윤재"/> | <img src="https://github.com/user-attachments/assets/d2710039-7581-43db-a459-b82d0f28ecc2" width=150px alt="정지현"/> |
+| <img width="150" height="김혜림" alt="Image" src="https://github.com/user-attachments/assets/b701ab01-f181-4bd2-9708-e29d2d3064d2" /> | <img src="https://github.com/user-attachments/assets/b9976828-ceeb-42c5-b5e3-e264bf436d06" width=150px alt="정철호"/> | <img src="https://github.com/user-attachments/assets/31542ca9-ee53-42e6-8251-9efa1ab2fe62" width=150px alt="이윤재"/> | <img src="https://github.com/user-attachments/assets/d2710039-7581-43db-a459-b82d0f28ecc2" width=150px alt="정지현"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | 
 | PD @김혜림 | PD @정철호| PD [@이윤재](www.linkedin.com/in/yoonjae-lee-2293732b9) | PD [@정지현](https://coooding-96.tistory.com/) |
 
