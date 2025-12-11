@@ -33,9 +33,9 @@
 | :--------------- |:----------------- |:------------------- |:------------------- | :------------------- |
 | FE @”ID” |FE @”ID” |FE @”ID” |FE @”ID” | FE @”ID” |
 ## 메이커스 팀
-| <img src="??" width=150px alt="홍길동"/> | <img src="??" width=150px alt="홍길동"/> | <img src="??" width=150px alt="홍길동"/> | <img src="??" width=150px alt="홍길동"/> | <img src="??" width=150px alt="홍길동"/> |
+| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="??" width=150px alt="문소희"/> | <img src="??" width=150px alt="방재현"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| FE @”ID” |FE @”ID” |FE @”ID” |FE @”ID” | FE @”ID” | -->
+| FE [@rkdcodus](https://github.com/rkdcodus) |FE [@kimdonggu42](https://github.com/kimdonggu42) |FE [@WonJuneKim](https://github.com/WonJuneKim) |FE @”ID” | FE @”ID” | -->
 ## 3기
 | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/60089873?v=4" width=150px alt="김수진"/> | <img src="https://avatars.githubusercontent.com/u/53415000?v=4" width=150px alt="김현우"/> | <img src="https://avatars.githubusercontent.com/u/108325028?v=4" width=150px alt="이재훈"/> | <img src="https://avatars.githubusercontent.com/u/156271964?v=4" width=150px alt="허세령"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
