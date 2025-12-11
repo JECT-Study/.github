@@ -50,6 +50,21 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | BE [@chyun5197](https://github.com/chyun5197) |BE [@hisonghy](https://github.com/hisonghy) |BE [@chaiminwoo0223](https://github.com/chaiminwoo0223) |BE [@bbungjin](https://github.com/bbungjin) | BE [@Cho-SangHyun](https://github.com/Cho-SangHyun) |
 
+| <img src="https://avatars.githubusercontent.com/u/118094734?v=4" width=150px alt="김상진"/> | <img src="https://avatars.githubusercontent.com/u/45223837?v=4" width=150px alt="임수빈"/> | <img width=150px alt="이재호" src="https://github.com/user-attachments/assets/30a31f35-cd24-4e70-8b65-6bafba49d071" /> | <img width="150" alt="정준영" src="https://github.com/user-attachments/assets/530114d3-f81e-468a-915f-8bb8d6df42d6" /> |  <img width="150" alt="이승수" src="https://github.com/user-attachments/assets/ee648f0b-24c2-4ca8-89e1-b39a9aa78aa0" />  |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| BE [@sangxxjin](https://github.com/sangxxjin) |BE [@robinjoon](https://github.com/robinjoon) |PM [@이재호](https://udantangjaeho.tistory.com/) |PM [@정준영](https://blog.naver.com/junpm562) | PM [@이승수](https://drive.google.com/drive/folders/1C-ZityWC80fUjCuzjyQHJsK2wPYCpko1?usp=sharing) |
+
+| <img width="150" alt="김민진" src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" /> | <img src="https://github.com/user-attachments/assets/cfd339e7-e07f-443a-9d4b-09ee30c01069" width=150px alt="손혜림"/> | <img src="https://github.com/user-attachments/assets/e1ea84e9-6951-4dea-b1c3-ef90524d981b" width=150px alt="길윤서"/> | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://github.com/user-attachments/assets/fc0d4b0b-cbf8-49bf-9862-1ce0b67d28b4" width=150px alt="김예진"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| PM [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) |PM [@손혜림](https://codingwithson.tistory.com/) | PD [@길윤서](https://m.blog.naver.com/gys111210) | PD [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | PD [@김예진](https://www.linkedin.com/feed/) |
+
+| <img src="https://github.com/user-attachments/assets/67899701-e7f1-4d78-9952-f7da8a321cfe" width=150px alt="윤소연"/> | <img src="https://github.com/user-attachments/assets/551cdade-5460-4c49-a37a-998ad7d99eaa" width=150px alt="권지영"/> | <img src="https://github.com/user-attachments/assets/63b8f9e6-40e2-4735-84ed-12ceb72e1d69" width=150px alt="이채원"/> | <img src="https://github.com/user-attachments/assets/1cc5f4ff-ee85-4d17-9f2c-f6b282803246" width=150px alt="봉예잔"/> | <img src="https://github.com/user-attachments/assets/e5263192-0abf-48eb-b531-a1d981a44074" width=150px alt="홍수경"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| PD [@윤소연](https://www.linkedin.com/in/soyeonyun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | PD [@권지영](https://blog.naver.com/kwonji1234)| PD @이채원 | PD @봉예진 | PD @홍수경 |
+
+| <img src="Image" src="https://github.com/user-attachments/assets/57577eee-5967-40e5-8a90-152fd6e5c5a6" width=150px alt="김혜림"/> | <img src="https://github.com/user-attachments/assets/b9976828-ceeb-42c5-b5e3-e264bf436d06" width=150px alt="정철호"/> | <img src="https://github.com/user-attachments/assets/31542ca9-ee53-42e6-8251-9efa1ab2fe62" width=150px alt="이윤재"/> | <img src="https://github.com/user-attachments/assets/d2710039-7581-43db-a459-b82d0f28ecc2" width=150px alt="정지현"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | 
+| PD @김혜림 | PD @정철호| PD [@이윤재](www.linkedin.com/in/yoonjae-lee-2293732b9) | PD [@정지현](https://coooding-96.tistory.com/) |
 
 <details>
   <summary><h2>2기</h2></summary>
