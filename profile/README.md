@@ -33,9 +33,9 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 운영 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 @김경욱 | 운영 @이길남 | 운영 @홍지호 |
 
-| <img src="" width=150px alt="강석준"/> | <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="??" width=150px alt="김원준"/> | <img src="??" width=150px alt="오창민"/> | <img src="??" width=150px alt="김동영"/> |
+| <img src="" width=150px alt="강석준"/> | <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="??" width=150px alt="오창민"/> | <img src="??" width=150px alt="김동영"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 행정 @강석준 | 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준]() | 행정 @오창민 | BX @김동영 |
+| 행정 @강석준 | 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준](https://github.com/WonJuneKim) | 행정 @오창민 | BX @김동영 |
 
 | <img src="" width=150px alt="신현지"/> |
 | :---------------: |
