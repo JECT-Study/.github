@@ -29,9 +29,9 @@
 
 # 구성원
 ## 운영 서포터즈
-| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="김경욱"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="이길남"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="홍지호"/> |
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="김경욱"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="이길남"/> | <img src="https://github.com/user-attachments/assets/d9d15733-e7ab-4bdb-b05d-b123f65995dd" width=150px alt="홍지호"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 운영 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 @김경욱 | 운영 @이길남 | 운영 @홍지호 |
+| 운영 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 @김경욱 | 운영 @이길남 | 운영 [@홍지호](https://m.blog.naver.com/littlehjhj) |
 
 | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="강석준"/> | <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://github.com/user-attachments/assets/0dee4fe5-3651-4a93-a024-5a74406c31f6" width=150px alt="오창민"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
