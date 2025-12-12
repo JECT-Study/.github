@@ -28,14 +28,32 @@
 
 
 # 구성원
-<!-- ## 운영 서포터즈
-| <img src="??" alt="홍길동"/> | <img src="??" alt="홍길동"/> | <img src="??" alt="홍길동"/> | <img src="??" alt="홍길동"/> | <img src="??" alt="홍길동"/> |
-| :--------------- |:----------------- |:------------------- |:------------------- | :------------------- |
-| FE @”ID” |FE @”ID” |FE @”ID” |FE @”ID” | FE @”ID” |
-## 메이커스 팀
-| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="??" width=150px alt="문소희"/> | <img src="??" width=150px alt="방재현"/> |
+## 운영 서포터즈
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="??" width=150px alt="김경욱"/> | <img src="??" width=150px alt="이길남"/> | <img src="??" width=150px alt="홍지호"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| FE [@rkdcodus](https://github.com/rkdcodus) |FE [@kimdonggu42](https://github.com/kimdonggu42) |FE [@WonJuneKim](https://github.com/WonJuneKim) |FE @”ID” | FE @”ID” | -->
+| 운영 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 @김경욱 | 운영 @이길남 | 운영 @홍지호 |
+
+| <img src="" width=150px alt="강석준"/> | <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="??" width=150px alt="김원준"/> | <img src="??" width=150px alt="오창민"/> | <img src="??" width=150px alt="김동영"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| 행정 @강석준 | 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준]() | 행정 @오창민 | BX @김동영 |
+
+| <img src="" width=150px alt="신현지"/> |
+| :---------------: |
+| BX @신현지 | 
+
+## 메이커스 팀
+| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="??" width=150px alt="공희상"/> | <img src="??" width=150px alt="오준용"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| 1팀 [@강채연](https://github.com/rkdcodus) | 1팀 [@김동구](https://github.com/kimdonggu42) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 @공희상 | 1팀 @오준용 |
+
+| <img src="" width=150px alt="서한이"/> | <img src="https://avatars.githubusercontent.com/u/30232340?v=4" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img src="??" width=150px alt="방재현"/> | <img src="??" width=150px alt="정효림"/> |
+| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
+| 1팀 @서한이 | 1팀 [@최원준](https://github.com/junslog) | 2팀 [@문소희](https://github.com/ccconac) | 2팀 @방재현 | 2팀 @정효림 |
+
+| <img src="" width=150px alt="김동영"/> |
+| :---------------: |
+| 2팀 @김동영 | 
+
 ## 3기
 | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/60089873?v=4" width=150px alt="김수진"/> | <img src="https://avatars.githubusercontent.com/u/53415000?v=4" width=150px alt="김현우"/> | <img src="https://avatars.githubusercontent.com/u/108325028?v=4" width=150px alt="이재훈"/> | <img src="https://avatars.githubusercontent.com/u/156271964?v=4" width=150px alt="허세령"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
