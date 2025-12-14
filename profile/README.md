@@ -42,9 +42,9 @@
 | BX @신현지 | 
 
 ## 메이커스 팀
-| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="공희상"/> | <img src="https://avatars.githubusercontent.com/u/26736260?v=4" width=150px alt="오준용"/> |
+| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | <img src="https://avatars.githubusercontent.com/u/26736260?v=4" width=150px alt="오준용"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 1팀 [@강채연](https://github.com/rkdcodus) | 1팀 [@김동구](https://github.com/kimdonggu42) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 @공희상 | 1팀 [@오준용](https://github.com/fivedragon5) |
+| 1팀 [@강채연](https://github.com/rkdcodus) | 1팀 [@김동구](https://github.com/kimdonggu42) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 [@공희상]( https://023-dev.github.io/) | 1팀 [@오준용](https://github.com/fivedragon5) |
 
 | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="서한이"/> | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
