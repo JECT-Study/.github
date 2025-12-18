@@ -46,9 +46,9 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 1팀 [@강채연](https://github.com/rkdcodus) | 1팀 [@김동구](https://github.com/kimdonggu42) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 [@공희상]( https://023-dev.github.io/) | 1팀 [@오준용](https://github.com/fivedragon5) |
 
-| <img src="https://github.com/user-attachments/assets/266e13f2-a851-4663-9eaf-69f74683ee1d" width=150px alt="서한이"/> | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img src="https://avatars.githubusercontent.com/u/95038747?v=4" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> |
+| <img src="https://github.com/user-attachments/assets/7783ce48-852c-484f-a039-b92d7a2485db" width=150px alt="서한이"/> | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img src="https://avatars.githubusercontent.com/u/95038747?v=4" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 1팀 @서한이 | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 2팀 [@문소희](https://github.com/ccconac) | 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 |
+| 1팀 [@서한이](https://hanyi-portfolio.notion.site/Hanyi-Seo-267ba58d785980c290c4d7659214badb) | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 2팀 [@문소희](https://github.com/ccconac) | 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 |
 
 | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
 | :---------------: |
