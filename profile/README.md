@@ -29,13 +29,13 @@
 
 # 구성원
 ## 운영 서포터즈
-| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img src="https://github.com/user-attachments/assets/9b023aec-7bb5-41ac-a7ed-c57e5da20b5c" width=150px alt="이길남"/> | <img src="https://github.com/user-attachments/assets/d9d15733-e7ab-4bdb-b05d-b123f65995dd" width=150px alt="홍지호"/> |
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> |  <img src="https://github.com/user-attachments/assets/d9d15733-e7ab-4bdb-b05d-b123f65995dd" width=150px alt="홍지호"/> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne) | 운영 [@이길남](https://www.linkedin.com/in/820nam/) | 운영 [@홍지호](https://m.blog.naver.com/littlehjhj) |
+| 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@강채연](https://github.com/rkdcodus) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne) | 운영 [@홍지호](https://m.blog.naver.com/littlehjhj) | 행정 [@강석준](https://github.com/KSJ27) |
 
-| <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://github.com/user-attachments/assets/0dee4fe5-3651-4a93-a024-5a74406c31f6" width=150px alt="오창민"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
+|  <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="김민진"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://github.com/user-attachments/assets/0dee4fe5-3651-4a93-a024-5a74406c31f6" width=150px alt="오창민"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 행정 [@강석준](https://github.com/KSJ27) | 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준](https://github.com/WonJuneKim) | 행정 [@오창민](https://m.blog.naver.com/shark3457) | BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |
+| 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준](https://github.com/WonJuneKim) | 행정 [@오창민](https://m.blog.naver.com/shark3457) | BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |
 
 | <img src="https://github.com/user-attachments/assets/0f4fcb1a-b192-46b2-af51-b651701688d9" width=150px alt="신현지"/> |
 | :---------------: |
