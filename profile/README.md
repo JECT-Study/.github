@@ -37,7 +37,7 @@
 | :---: | :---: | :---: | :---: |:---: |
 | 행정 [@김민진](https://efficacious-dryosaurus-566.notion.site/29d187184748805a8852d37b0493cee7?source=copy_link) | 행정 [@김원준](https://github.com/WonJuneKim) | 행정 [@오창민](https://m.blog.naver.com/shark3457) | BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |BX @신현지 | 
 
-|  <img src="https://github.com/user-attachments/assets/8d9fffb7-3f7e-46d5-99f1-bc639d3e0718" width=150px alt="홍승민"/> |
+|  <img src="https://github.com/user-attachments/assets/a94dc5bc-81fd-41cc-9737-e50b2f6c3a19" width=150px alt="홍승민"/> |
 | :---: |
 | BX팀 @홍승민
 
