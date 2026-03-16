@@ -39,17 +39,18 @@
 
 
 ## 메이커스 팀
-| <img src="https://avatars.githubusercontent.com/u/97906653?v=4" width=150px alt="강채연"/> | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | <img src="https://avatars.githubusercontent.com/u/26736260?v=4" width=150px alt="오준용"/> |
+| <img src="https://avatars.githubusercontent.com/u/61671704?v=4" width=150px alt="김민준"/> |  <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/>  | <img src="https://avatars.githubusercontent.com/u/153643266?v=4" width=150px alt="김지훈"/> | <img src="https://avatars.githubusercontent.com/u/103936631?v=4" width=150px alt="김현중"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | 
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 1팀 [@강채연](https://github.com/rkdcodus) | 1팀 [@김동구](https://github.com/kimdonggu42) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 [@공희상]( https://023-dev.github.io/) | 1팀 [@오준용](https://github.com/fivedragon5) |
+| 1팀 [@김민준](https://github.com/mj0107) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 [@김지훈](https://kim-jihun.com/) | 1팀 [@김현중](https://github.com/hyeone999) | 1팀 [@공희상]( https://023-dev.github.io/) | 
 
-| <img src="https://github.com/user-attachments/assets/48a1f442-03c2-4395-91e2-50f7ed343623" width=150px alt="이재호"/> | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img src="https://avatars.githubusercontent.com/u/95038747?v=4" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> |
+
+|<img src="https://avatars.githubusercontent.com/u/26736260?v=4" width=150px alt="오준용"/> | <img src="https://github.com/user-attachments/assets/48a1f442-03c2-4395-91e2-50f7ed343623" width=150px alt="이재호"/> | <img src = "https://github.com/user-attachments/assets/08168493-a344-4da9-a4df-a9b96cf04ca0" width = 150px alt = "권정인"/>| <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 2팀 [@문소희](https://github.com/ccconac) | 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 |
+| 1팀 [@오준용](https://github.com/fivedragon5)| 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 @권정인 | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 2팀 [@문소희](https://github.com/ccconac) |
 
-| <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
-| :---------------: |
-| 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
+| <img src="https://avatars.githubusercontent.com/u/95038747?v=4" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
+|:-------------------: |:-------------------: | :-------------------: |
+| 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
 
 ## 3기
 | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/60089873?v=4" width=150px alt="김수진"/> | <img src="https://avatars.githubusercontent.com/u/53415000?v=4" width=150px alt="김현우"/> | <img src="https://avatars.githubusercontent.com/u/108325028?v=4" width=150px alt="이재훈"/> | <img src="https://avatars.githubusercontent.com/u/156271964?v=4" width=150px alt="허세령"/> |
