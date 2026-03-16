@@ -57,7 +57,9 @@
 |:-------------------: |:-------------------: | :-------------------: |
 | 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
 
-## 3기
+<details>
+  <summary><h2>3기</h2></summary>
+  <div markdown="1">
 | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/60089873?v=4" width=150px alt="김수진"/> | <img src="https://avatars.githubusercontent.com/u/53415000?v=4" width=150px alt="김현우"/> | <img src="https://avatars.githubusercontent.com/u/108325028?v=4" width=150px alt="이재훈"/> | <img src="https://avatars.githubusercontent.com/u/156271964?v=4" width=150px alt="허세령"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | FE [@kimdonggu42](https://github.com/kimdonggu42) |FE [@sururuu](https://github.com/sururuu) |FE [@lecto17](https://github.com/lecto17) |FE [@jhoonyeel](https://github.com/jhoonyeel) | FE [@seryoii](https://github.com/seryoii) |
@@ -89,6 +91,7 @@
 | <img width="150" height="김혜림" alt="Image" src="https://github.com/user-attachments/assets/b701ab01-f181-4bd2-9708-e29d2d3064d2" /> | <img src="https://github.com/user-attachments/assets/b9976828-ceeb-42c5-b5e3-e264bf436d06" width=150px alt="정철호"/> | <img src="https://github.com/user-attachments/assets/31542ca9-ee53-42e6-8251-9efa1ab2fe62" width=150px alt="이윤재"/> | <img src="https://github.com/user-attachments/assets/d2710039-7581-43db-a459-b82d0f28ecc2" width=150px alt="정지현"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | 
 | PD @김혜림 | PD @정철호| PD [@이윤재](www.linkedin.com/in/yoonjae-lee-2293732b9) | PD [@정지현](https://coooding-96.tistory.com/) |
+</details>
 
 <details>
   <summary><h2>2기</h2></summary>
