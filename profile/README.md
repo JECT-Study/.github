@@ -40,7 +40,7 @@
 
 | <img src="https://github.com/user-attachments/assets/a94dc5bc-81fd-41cc-9737-e50b2f6c3a19" width=150px alt="홍승민"/> |
 | :---: |
-| BX팀 @홍승민 |
+| BX @홍승민 |
 
 
 ## 메이커스 팀
