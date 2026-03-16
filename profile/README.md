@@ -98,7 +98,7 @@
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | PD 유소희 | PD 김나경 | PD 이소민 | PD 김지수 | PD 황지민 |
 
-| <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px alt="이주원"/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px alt="김보정"/> | <img src="https://github.com/user-attachments/assets/449acc87-8ead-429f-bfa7-7f272f3688b4" width=150px alt="박어진"/> | <img src="https://github.com/user-attachments/assets/93b36792-5e81-415a-949d-1f3be3212162" width=150px alt="이지혜"/> | <img src="https://github.com/user-attachments/assets/c6ebd4a8-7caa-44fe-a69a-4cb3bff9f7a4" width=150px alt="주장미"/> |
+| <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px alt="이주원"/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px alt="김보정"/> | <img src="https://github.com/user-attachments/assets/449acc87-8ead-429f-bfa7-7f272f3688b4" width=150px alt="박어진"/> | <img src="https://github.com/user-attachments/assets/93b36792-5e81-415a-949d-1f3be3212162" width=150px alt="이지혜"/> | <img src="https://github.com/user-attachments/assets/c6ebd4a8-7caa-44fe-a69a-4cb3bff9f7a4" width=150px height = 150px alt="주장미"/> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | PD 이주원 | PD 김보정 | PD 박어진 | PD 이지혜 | PD 주장미 |
 
