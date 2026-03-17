@@ -94,7 +94,7 @@
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | PM 이상은 | PM 한예진 | PM 이영주 | PM 조영민 | PD 신주영 |
 
-| <img src="https://github.com/user-attachments/assets/c832cf73-1f41-4d9b-b66f-83077282273e" width=150px alt="유소희"/> | <img src="https://github.com/user-attachments/assets/be862250-e9b0-44f8-9196-8a564c3fe68e" width=150px alt="김나경"/> | <img src="https://github.com/user-attachments/assets/fdb83ee9-1073-4783-99a2-3d71c68b5e4c" width=150px alt="이소민"/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px alt="김지수"/> | <img src="https://github.com/user-attachments/assets/7b5b8b53-24ec-43be-a833-ea6a8d7e1aed" width=150px alt="황지민"/> |
+| <img src="https://github.com/user-attachments/assets/c832cf73-1f41-4d9b-b66f-83077282273e" width=150px alt="유소희"/> | <img src="https://github.com/user-attachments/assets/be862250-e9b0-44f8-9196-8a564c3fe68e" width=150px alt="김나경"/> | <img src="https://github.com/user-attachments/assets/30ed8b93-35ed-4d7a-b81a-8cef170ebf44" width=150px alt="이소민"/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px alt="김지수"/> | <img src="https://github.com/user-attachments/assets/7b5b8b53-24ec-43be-a833-ea6a8d7e1aed" width=150px alt="황지민"/> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | PD 유소희 | PD 김나경 | PD 이소민 | PD 김지수 | PD 황지민 |
 
