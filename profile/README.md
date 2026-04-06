@@ -52,9 +52,9 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 1팀 [@오준용](https://github.com/fivedragon5)| 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 @권정인 | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 2팀 [@문소희](https://github.com/ccconac) |
 
-| <img src="https://avatars.githubusercontent.com/u/95038747?v=4" width=150px alt="방재현"/> | <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
-|:-------------------: |:-------------------: | :-------------------: |
-| 2팀 [@방재현](https://github.com/CRITICBANGGU) | 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
+| <img src="https://github.com/user-attachments/assets/61df8039-7386-4793-aa15-beefec9f98f3" width=150px alt="정효림"/> | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> |
+|:-------------------: | :-------------------: |
+| 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
 
 ## 4기
 | <img src="https://avatars.githubusercontent.com/Binz-collab" width=150px alt="백종빈"/> | <img src="https://avatars.githubusercontent.com/4anghyeon" width=150px alt="이상현"/> | <img src="https://avatars.githubusercontent.com/kjeunn" width=150px alt="김정은"/> | <img src="https://avatars.githubusercontent.com/Monixc" width=150px alt="황다경"/> | <img src="https://avatars.githubusercontent.com/kimYunHyeong" width=150px alt="김윤형"/> |
