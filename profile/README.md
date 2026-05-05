@@ -57,47 +57,47 @@
 | 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
 
 ## 4기
-| <img src="https://github.com/Binz-collab.png"/> | <img src="https://github.com/ohofront.png"/> | <img src="https://github.com/numeru.png"/> | <img src="https://github.com/kimYunHyeong.png"/> | <img src="https://github.com/juuhye.png"/> |
+| <img src="https://github.com/Binz-collab.png" width=150px/> | <img src="https://github.com/ohofront.png" width=150px/> | <img src="https://github.com/numeru.png" width=150px/> | <img src="https://github.com/kimYunHyeong.png" width=150px/> | <img src="https://github.com/juuhye.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | FE [@백종빈](https://github.com/Binz-collab) | FE [@조영호](https://github.com/ohofront) | FE [@최영광](https://github.com/numeru) | FE [@김윤형](https://github.com/kimYunHyeong) | FE [@심주혜](https://github.com/juuhye) |
 
-| <img src="https://github.com/shunn2.png"/> | <img src="https://github.com/HeeEun-Lee.png"/> | <img src="https://github.com/seryoii.png"/> | <img src="https://github.com/she0108.png"/> | <img src="https://github.com/MintPansy.png"/> |
+| <img src="https://github.com/shunn2.png" width=150px/> | <img src="https://github.com/HeeEun-Lee.png" width=150px/> | <img src="https://github.com/seryoii.png" width=150px/> | <img src="https://github.com/she0108.png" width=150px/> | <img src="https://github.com/MintPansy.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | FE [@조성훈](https://github.com/shunn2) | FE [@이희은](https://github.com/HeeEun-Lee) | FE [@허세령](https://github.com/seryoii) | FE [@소효은](https://github.com/she0108) | FE [@양현준](https://github.com/MintPansy) |
 
-| <img src="https://github.com/d5ng.png"/> | <img src=""/> | <img src="https://github.com/jwanp.png"/> | <img src="https://github.com/zealous_otter_10216.png"/> | <img src="https://github.com/mike7643.png"/> |
+| <img src="https://github.com/d5ng.png" width=150px/> | <img src="" width=150px/> | <img src="https://github.com/jwanp.png" width=150px/> | <img src="https://github.com/zealous_otter_10216.png" width=150px/> | <img src="https://github.com/mike7643.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | FE [@이동현](https://github.com/d5ng) | FE @박상준 | FE [@박주환](https://github.com/jwanp) | BE [@송채영](https://github.com/zealous_otter_10216) | BE [@정유민](https://github.com/mike7643) |
 
-| <img src="https://github.com/tlarbals824.png"/> | <img src="https://github.com/Junhyukkkk.png"/> | <img src="https://github.com/KII1ua.png"/> | <img src=""/> | <img src="https://github.com/youcastle03.png"/> |
+| <img src="https://github.com/tlarbals824.png" width=150px/> | <img src="https://github.com/Junhyukkkk.png" width=150px/> | <img src="https://github.com/KII1ua.png" width=150px/> | <img src="" width=150px/> | <img src="https://github.com/youcastle03.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | BE [@심규민](https://github.com/tlarbals824) | BE [@최준혁](https://github.com/Junhyukkkk) | BE [@황성윤](https://github.com/KII1ua) | BE @권민우 | BE [@최유성](https://github.com/youcastle03) |
 
-| <img src=""/> | <img src=""/> | <img src="https://github.com/YeongJae0114.png"/> | <img src="https://github.com/goodispotato.png"/> | <img src="https://github.com/ttttkii913.png"/> |
+| <img src="" width=150px/> | <img src="" width=150px/> | <img src="https://github.com/YeongJae0114.png" width=150px/> | <img src="https://github.com/goodispotato.png" width=150px/> | <img src="https://github.com/ttttkii913.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | BE @한윤수 | BE @박수완 | BE [@이영재](https://github.com/YeongJae0114) | BE [@김재희](https://github.com/goodispotato) | BE [@유하영](https://github.com/ttttkii913) |
 
-| <img src="https://github.com/choeunbin03.png"/> | <img src="https://github.com/seoyeon-jung.png"/> | <img src="https://github.com/Cho-Hyun-Seung.png"/> | <img src="https://github.com/CASY82.png"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_김민경.jpg"/> |
+| <img src="https://github.com/choeunbin03.png" width=150px/> | <img src="https://github.com/seoyeon-jung.png" width=150px/> | <img src="https://github.com/Cho-Hyun-Seung.png" width=150px/> | <img src="https://github.com/CASY82.png" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_김민경.jpg" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | BE [@조은빈](https://github.com/choeunbin03) | BE [@정서연](https://github.com/seoyeon-jung) | BE [@조현승](https://github.com/Cho-Hyun-Seung) | BE [@최현호](https://github.com/CASY82) | PM @김민경 |
 
-| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이준호.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_박성령.png"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이유림.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_남은지.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_정다영.jpg"/> |
+| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이준호.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_박성령.png" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이유림.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_남은지.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_정다영.jpg" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @이준호 | PM @박성령 | PM @이유림 | PM @남은지 | PM @정다영 |
 
-| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_설유빈.jpg"/> | <img src=""/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이상은.png"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_한예진.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이영주.jpg"/> |
+| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_설유빈.jpg" width=150px/> | <img src="" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이상은.png" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_한예진.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PM_이영주.jpg" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @설유빈 | PM @이윤지 | PM @이상은 | PM @한예진 | PM @이영주 |
 
-| <img src="https://github.com/user-attachments/assets/b7b5d19c-ac64-46e7-99af-c6be6a7ecd84"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_신주영.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_유소희.png"/> | <img src="https://github.com/user-attachments/assets/be862250-e9b0-44f8-9196-8a564c3fe68e"/> | <img src="https://github.com/user-attachments/assets/30ed8b93-35ed-4d7a-b81a-8cef170ebf44"/> |
+| <img src="https://github.com/user-attachments/assets/b7b5d19c-ac64-46e7-99af-c6be6a7ecd84" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_신주영.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_유소희.png" width=150px/> | <img src="https://github.com/user-attachments/assets/be862250-e9b0-44f8-9196-8a564c3fe68e" width=150px/> | <img src="https://github.com/user-attachments/assets/30ed8b93-35ed-4d7a-b81a-8cef170ebf44" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @조영민 | PD @신주영 | PD @유소희 | PD @김나경 | PD @이소민 |
 
-| <img src=""/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_김지수.jpg"/> | <img src=""/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_이주원.png"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_김보정.png"/> |
+| <img src="" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_김지수.jpg" width=150px/> | <img src="" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_이주원.png" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_김보정.png" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PD @김유진 | PD @김지수 | PD @강윤지 | PD @이주원 | PD @김보정 |
 
-| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_박어진.jpg"/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_이지혜.png"/> | <img src="https://github.com/user-attachments/assets/c6ebd4a8-7caa-44fe-a69a-4cb3bff9f7a4"/> |
+| <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_박어진.jpg" width=150px/> | <img src="https://d1u7hs6wgkqqp8.cloudfront.net/github-profile/4기_PD_이지혜.png" width=150px/> | <img src="https://github.com/user-attachments/assets/c6ebd4a8-7caa-44fe-a69a-4cb3bff9f7a4" width=150px/> |
 | :-------------------: | :-------------------: | :-------------------: |
 | PD @박어진 | PD @이지혜 | PD @주장미 |
 
