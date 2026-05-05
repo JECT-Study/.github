@@ -65,15 +65,15 @@
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | FE [@조성훈](https://github.com/shunn2) | FE [@이희은](https://github.com/HeeEun-Lee) | FE [@허세령](https://github.com/seryoii) | FE [@소효은](https://github.com/she0108) | FE [@양현준](https://github.com/MintPansy) |
 
-| <img src="https://github.com/d5ng.png" width=150px height = 150px/> | <img src="" width=150px height = 150px/> | <img src="https://github.com/jwanp.png" width=150px height = 150px/> | <img src="https://github.com/zealous_otter_10216.png" width=150px height = 150px/> | <img src="https://github.com/mike7643.png" width=150px height = 150px/> |
+| <img src="https://github.com/d5ng.png" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/jwanp.png" width=150px height = 150px/> | <img src="https://github.com/zealous_otter_10216.png" width=150px height = 150px/> | <img src="https://github.com/mike7643.png" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | FE [@이동현](https://github.com/d5ng) | FE @박상준 | FE [@박주환](https://github.com/jwanp) | BE [@송채영](https://github.com/zealous_otter_10216) | BE [@정유민](https://github.com/mike7643) |
 
-| <img src="https://github.com/tlarbals824.png" width=150px height = 150px/> | <img src="https://github.com/Junhyukkkk.png" width=150px height = 150px/> | <img src="https://github.com/KII1ua.png" width=150px height = 150px/> | <img src="" width=150px height = 150px/> | <img src="https://github.com/youcastle03.png" width=150px height = 150px/> |
+| <img src="https://github.com/tlarbals824.png" width=150px height = 150px/> | <img src="https://github.com/Junhyukkkk.png" width=150px height = 150px/> | <img src="https://github.com/KII1ua.png" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/youcastle03.png" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | BE [@심규민](https://github.com/tlarbals824) | BE [@최준혁](https://github.com/Junhyukkkk) | BE [@황성윤](https://github.com/KII1ua) | BE @권민우 | BE [@최유성](https://github.com/youcastle03) |
 
-| <img src="" width=150px height = 150px/> | <img src="" width=150px height = 150px/> | <img src="https://github.com/YeongJae0114.png" width=150px height = 150px/> | <img src="https://github.com/goodispotato.png" width=150px height = 150px/> | <img src="https://github.com/ttttkii913.png" width=150px height = 150px/> |
+| <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/YeongJae0114.png" width=150px height = 150px/> | <img src="https://github.com/goodispotato.png" width=150px height = 150px/> | <img src="https://github.com/ttttkii913.png" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | BE @한윤수 | BE @박수완 | BE [@이영재](https://github.com/YeongJae0114) | BE [@김재희](https://github.com/goodispotato) | BE [@유하영](https://github.com/ttttkii913) |
 
@@ -85,7 +85,7 @@
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @이준호 | PM @박성령 | PM @이유림 | PM @남은지 | PM @정다영 |
 
-| <img src="https://github.com/user-attachments/assets/359950aa-7e3c-4ba2-ada8-9b84b6aff0d6" width=150px height = 150px/> | <img src="" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/054e068f-9f3a-4593-8655-49aa25d05e52" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/d8e20b89-09a5-44d1-8fb2-7e4183f46189" width=150px height = 150px/> |
+| <img src="https://github.com/user-attachments/assets/359950aa-7e3c-4ba2-ada8-9b84b6aff0d6" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/054e068f-9f3a-4593-8655-49aa25d05e52" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/d8e20b89-09a5-44d1-8fb2-7e4183f46189" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @설유빈 | PM @이윤지 | PM @이상은 | PM @한예진 | PM @이영주 |
 
@@ -93,7 +93,7 @@
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @조영민 | PD @신주영 | PD @유소희 | PD @김나경 | PD @이소민 |
 
-| <img src="" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px height = 150px/> | <img src="" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px height = 150px/> |
+| <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PD @김유진 | PD @김지수 | PD @강윤지 | PD @이주원 | PD @김보정 |
 
