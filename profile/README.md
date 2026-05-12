@@ -93,7 +93,7 @@
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PM @조영민 | PD @신주영 | PD @유소희 | PD @김나경 | PD @이소민 |
 
-| <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/4f3b6daa-9f3f-40ae-81b8-0bc5ba259abc" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px height = 150px/> |
+| <img src="https://github.com/user-attachments/assets/aa64d5ce-4a6b-46b8-8403-5eeafafe94cd" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/7607f588-aaa9-4d4e-be6a-e421f7f17408" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/2418c472-c4cf-4616-accb-3721f1e71f95" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/c34535ca-1303-461c-886d-a5f1b9d1312c" width=150px height = 150px/> | <img src="https://github.com/user-attachments/assets/ff94786e-9696-49d9-a5a0-f7f7ddb1b056" width=150px height = 150px/> |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
 | PD @김유진 | PD @김지수 | PD @강윤지 | PD @이주원 | PD @김보정 |
 
