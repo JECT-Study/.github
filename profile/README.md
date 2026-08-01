@@ -12,9 +12,19 @@
 
 
 # 협업 프로젝트
-## 진행 중
-> 4기 서비스의 MVP 개발이 진행중이에요.
+
 ## 완료
+
+### 4기(2026년 1월 31일 - 7월 11일)
+| 썸네일 | 이름 | 설명 | URL |
+| :--------------- |:----------------- |:------------------- |:------------------- |
+| <img width="600" height="400" alt="짐두고(Zimdugo)" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **짐두고(Zimdugo)** | 누구나 쉽고 빠르게 전국에 있는 물품 보관함을 탐색하고 이용할 수 있는 물품 보관함 통합 플랫폼 서비스입니다. | Client: [JECT-Study/Zimdugo-4th-Client](https://github.com/JECT-Study/Zimdugo-4th-Client.git) <br> Server: [JECT-Study/Zimdugo-4th-Server](https://github.com/JECT-Study/Zimdugo-4th-Server.git) |
+| <img width="600" height="400" alt="VS" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **VS** | 실시간 익명 투표·밸런스게임 플랫폼, VS | Client: [JECT-Study/VS-4th-Client](https://github.com/JECT-Study/VS-4th-Client) <br> Server: [JECT-Study/JECT2-4th-Server](https://github.com/JECT-Study/JECT2-4th-Server) |
+| <img width="600" height="400" alt="인플레이스(inflace)" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **인플레이스(inflace)** | 마케터와 인플루언서의 만남, 인플레이스 | Client: [JECT-Study/inflace-4th-Client](https://github.com/JECT-Study/inflace-4th-Client.git) <br> Server: [JECT-Study/inflace-4th-server](https://github.com/JECT-Study/inflace-4th-server.git)  |
+| <img width="600" height="400" alt="리핏(ReFit)" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **리핏(ReFit)** | 전시를 원하는 대학생 디자이너와 공간에 변화를 주고 싶은 소상공인을 연결해주는 플랫폼 | Client:[JECT-Study/Refit-4th-Frontend](https://github.com/JECT-Study/Refit-4th-Frontend.git) <br> Server:[JECT-Study/Refit-4th-Server.git](https://github.com/JECT-Study/Refit-4th-Server.git)|
+| <img width="600" height="400" alt="소스바(Sossbar)" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **소스바(Sossbar)** | 협업 전 상대를 알 수 없는 문제를 해결하는 동료 피드백 기반 프로필 서비스 | Client:[JECT-Study/JECT5-4th-Client](https://github.com/JECT-Study/JECT5-4th-Client.git) <br> Server: [JECT-Study/JECT5-4th-Server](https://github.com/JECT-Study/JECT5-4th-Server.git) |
+| <img width="600" height="400" alt="부스트(Boost)" src="https://github.com/user-attachments/assets/29620a08-c60b-4cb9-ba0c-d3a8fa0c0549" /> | **부스트(Boost)** | 초보 블로거를 위한 AI 체험단 매칭 플랫폼 | Client:[JECT-Study/JECT6--4th-Frontend](https://github.com/JECT-Study/JECT6--4th-Frontend.git) <br> Server:[JECT-Study/JECT6-4th-Server](https://github.com/JECT-Study/JECT6-4th-Server.git) |
+
 ### 3기(2025년 5월 18일 - 10월 18일)
 | 썸네일 | 이름 | 설명 | URL |
 | :--------------- |:----------------- |:------------------- |:------------------- |
