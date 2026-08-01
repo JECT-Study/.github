@@ -11,9 +11,7 @@
 * 젝트 디자인 시스템(JDS): https://www.figma.com/community/file/1547190026603503566/jds
 
 
-# 협업 프로젝트
-
-## 완료
+## 협업 프로젝트
 
 ### 4기(2026년 1월 31일 - 7월 11일)
 | 썸네일 | 이름 | 설명 | URL |
@@ -36,14 +34,15 @@
 | <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/bb66410a-e8f3-42b8-9b68-accdfefc6781" />| **스팟잇** | 팝업 스토어 정보를 제공하고 현장에서 온라인으로 웨이팅할 수 있는 팝업 큐레이팅 서비스 | 서비스 URL: [spot it!](https://www.spotit.co.kr/) </br> Client:[JECT-Study/JECT-3th-6team](https://github.com/JECT-Study/JECT-3th-6team) <br> Server:[JECT-Study/JECT-3th-6team](https://github.com/JECT-Study/JECT-3th-6team) |
 
 
-# 구성원
-## 운영 서포터즈
-| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img src="https://github.com/user-attachments/assets/1c5ad6b0-6242-4b9f-b5c9-cda6330fc0fb" height = "150px" width=150px alt="최지민"/> | <img src="" width=150px alt="박성령"/> | <img src="" width=150px alt="정서연"/> |
+## 구성원
+
+### 운영 서포터즈
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/85723cad-5b30-42b0-8d34-2d6fefc52e3f" alt="최지민"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="박성령"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="정서연"/> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne)| 운영 [@최지민](https://www.notion.so/317a94449b27804087d9da2ac9865964) | 운영 [@박성령]() | 운영 [@정서연]() |
 
 
-| <img src="" width=150px alt="백자영"/> | <img src="" width=150px alt="방지현"/> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |  <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | 
+| <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="백자영"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="방지현"/> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |  <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | 
 | :---: | :---: | :---: | :---: |:---: |
 | 대외협력 [@백자영]() | 대외협력 [@방지현]() | 인프라 [@강석준](https://github.com/KSJ27) | 인프라 [@허정원](https://github.com/weonyee) |  BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |
 
@@ -52,7 +51,7 @@
 | BX @홍승민 |
 
 
-## 메이커스 팀
+### 메이커스 팀
 | <img src="https://avatars.githubusercontent.com/u/61671704?v=4" width=150px alt="김민준"/> |  <img src="https://avatars.githubusercontent.com/u/101927445?v=4" width=150px alt="김원준"/>  | <img src="https://avatars.githubusercontent.com/u/153643266?v=4" width=150px alt="김지훈"/> | <img src="https://avatars.githubusercontent.com/u/103936631?v=4" width=150px alt="김현중"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | 
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 1팀 [@김민준](https://github.com/mj0107) | 1팀 [@김원준](https://github.com/WonJuneKim) | 1팀 [@김지훈](https://kim-jihun.com/) | 1팀 [@김현중](https://github.com/hyeone999) | 1팀 [@공희상]( https://023-dev.github.io/) | 
@@ -67,7 +66,7 @@
 | 2팀 @정효림 | 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 
 
 <details>
-  <summary><h2>4기</h2></summary>
+  <summary><h3>4기</h3></summary>
   <div markdown="1">
 
 | <img src="https://github.com/Binz-collab.png" width=150px height = 150px/> | <img src="https://github.com/ohofront.png" width=150px height = 150px/> | <img src="https://github.com/numeru.png" width=150px height = 150px/> | <img src="https://github.com/kimYunHyeong.png" width=150px height = 150px/> | <img src="https://github.com/juuhye.png" width=150px height = 150px/> |
@@ -113,7 +112,7 @@
 
 
 <details>
-  <summary><h2>3기</h2></summary>
+  <summary><h3>3기</h3></summary>
   <div markdown="1">
     
 | <img src="https://avatars.githubusercontent.com/u/115632555?v=4" width=150px alt="김동구"/> | <img src="https://avatars.githubusercontent.com/u/60089873?v=4" width=150px alt="김수진"/> | <img src="https://avatars.githubusercontent.com/u/53415000?v=4" width=150px alt="김현우"/> | <img src="https://avatars.githubusercontent.com/u/108325028?v=4" width=150px alt="이재훈"/> | <img src="https://avatars.githubusercontent.com/u/156271964?v=4" width=150px alt="허세령"/> |
@@ -150,7 +149,7 @@
 </details>
 
 <details>
-  <summary><h2>2기</h2></summary>
+  <summary><h3>2기</h3></summary>
   <div markdown="1">
 
 | <img src="https://avatars.githubusercontent.com/u/88381563?v=4" width=150px alt="신예찬"/> | <img src="https://avatars.githubusercontent.com/u/77084379?v=4" width=150px alt="정종현"/> | <img src="https://avatars.githubusercontent.com/u/81623065?v=4" width=150px alt="양래은"/> | <img src="https://avatars.githubusercontent.com/u/43875264?v=4" width=150px alt="김수현"/> | <img src="https://avatars.githubusercontent.com/u/107420002?v=4" width=150px alt="김민우"/> |
@@ -186,7 +185,7 @@
 </details>
 
 <details>
-  <summary><h2>1기</h2></summary>
+  <summary><h3>1기</h3></summary>
   <div markdown="1">
     
  <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px height=150px alt="왕효준"/> | <img src="https://avatars.githubusercontent.com/u/50395809?v=4" width=150px alt="홍예슬"/> | <img src="https://avatars.githubusercontent.com/u/107929019?v=4" width=150px alt="최희준"/> | <img src="https://avatars.githubusercontent.com/u/110653660?v=4" width=150px alt="한재모"/> | <img src="https://avatars.githubusercontent.com/u/78118588?v=4" width=150px alt="최준수"/> |
