@@ -37,19 +37,13 @@
 ## 구성원
 
 ### 운영 서포터즈
-| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/85723cad-5b30-42b0-8d34-2d6fefc52e3f" alt="최지민"/> | <img width="150" height="150" alt="박성령" src="https://github.com/user-attachments/assets/526e7ec3-bedf-4c3d-aa49-cd0b510b7132" /> | <img width="150" height="150" alt="정서연" src="https://github.com/user-attachments/assets/41b76872-70a8-4adc-a3bf-1c0291f3b37e" /> |
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/85723cad-5b30-42b0-8d34-2d6fefc52e3f" alt="최지민"/> | <img width="150" height="150" alt="박성령" src="https://github.com/user-attachments/assets/526e7ec3-bedf-4c3d-aa49-cd0b510b7132" /> | <img width="150" height="150" alt="정서연" src="https://github.com/user-attachments/assets/a07e9345-6f84-415d-9d53-254cbed01236" /> |
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne)| 운영 [@최지민](https://www.notion.so/317a94449b27804087d9da2ac9865964) | 운영 [@박성령](https://github.com/sungryeong) | 운영 @정서연 |
-
 
 | <img width="150" height="150" alt="백자영" src="https://github.com/user-attachments/assets/d4e2b930-3f7a-4559-aabd-9fc22ab9ae4f" /> | <img width="150" height="150" alt="방지현" src="https://github.com/user-attachments/assets/4725c820-c4a9-4370-9160-1e34a8740c72" /> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |  <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | 
 | :---: | :---: | :---: | :---: |:---: |
 | 대외협력 [@백자영](https://www.linkedin.com/in/jayeong-baek-2a4569398/) | 대외협력 [@방지현](https://www.linkedin.com/in/jeehyun-bang-519027291/) | 인프라 [@강석준](https://github.com/KSJ27) | 인프라 [@허정원](https://github.com/weonyee) |  BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |
-
-| <img src="https://github.com/user-attachments/assets/0f4fcb1a-b192-46b2-af51-b651701688d9" width=150px alt="신현지"/> | <img src="https://github.com/user-attachments/assets/a94dc5bc-81fd-41cc-9737-e50b2f6c3a19" width=150px alt="홍승민"/> |
-| :---: | :---: |
-| BX @신현지 | BX @홍승민 |
-
 
 ### 메이커스 팀
 
@@ -57,9 +51,9 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: |
 | 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 [@김지훈](https://kim-jihun.com/) | 1팀 [@공희상]( https://023-dev.github.io/) | 1팀 @강태성 |
 
-| <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src = "https://github.com/user-attachments/assets/08168493-a344-4da9-a4df-a9b96cf04ca0" width = 150px alt = "권정인"/> |
-| :---------------: |:-----------------: |
-| 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 1팀 @권정인 |
+| <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://github.com/user-attachments/assets/08168493-a344-4da9-a4df-a9b96cf04ca0" width=150px alt="권정인"/> | <img src="https://github.com/Junhyukkkk.png" width=150px height=150px alt="최준혁"/> |
+| :---: | :---: | :---: |
+| 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 1팀 @권정인 | 1팀 [@최준혁](https://github.com/Junhyukkkk) |
 
 | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="강태성"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="강태성"/> |
 |:-------------------: | :-------------------: | :-------------------: | :-------------------: |
