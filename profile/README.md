@@ -37,9 +37,9 @@
 ## 구성원
 
 ### 운영 서포터즈
-| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/85723cad-5b30-42b0-8d34-2d6fefc52e3f" alt="최지민"/> | <img width="150" height="150" alt="박성령" src="https://github.com/user-attachments/assets/526e7ec3-bedf-4c3d-aa49-cd0b510b7132" /> | <img width="150" height="150" alt="정서연" src="https://github.com/user-attachments/assets/a07e9345-6f84-415d-9d53-254cbed01236" /> |
-| :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
-| 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne)| 운영 [@최지민](https://www.notion.so/317a94449b27804087d9da2ac9865964) | 운영 [@박성령](https://github.com/sungryeong) | 운영 @정서연 |
+| <img src="https://avatars.githubusercontent.com/u/73704053?v=4" width=150px alt="왕효준"/> | <img src="https://github.com/user-attachments/assets/91c09934-bce4-4da2-8799-8da56ac89aec" width=150px alt="김경욱"/> | <img width="150" height="150" alt="박성령" src="https://github.com/user-attachments/assets/526e7ec3-bedf-4c3d-aa49-cd0b510b7132" /> | <img width="150" height="150" alt="정서연" src="https://github.com/user-attachments/assets/a07e9345-6f84-415d-9d53-254cbed01236" /> |
+| :---------------: |:-------------------: |:-------------------: | :-------------------: |
+| 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne)| 운영 [@박성령](https://github.com/sungryeong) | 운영 @정서연 |
 
 | <img width="150" height="150" alt="백자영" src="https://github.com/user-attachments/assets/d4e2b930-3f7a-4559-aabd-9fc22ab9ae4f" /> | <img width="150" height="150" alt="방지현" src="https://github.com/user-attachments/assets/4725c820-c4a9-4370-9160-1e34a8740c72" /> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |
 | :---: | :---: | :---: | :---: |
