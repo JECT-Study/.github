@@ -57,7 +57,7 @@
 
 | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://github.com/user-attachments/assets/08168493-a344-4da9-a4df-a9b96cf04ca0" width=150px alt="권정인"/> | <img src="https://github.com/Junhyukkkk.png" width=150px height=150px alt="최준혁"/> |
 | :---: | :---: | :---: |
-| 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 1팀 @권정인 | 1팀 [@최준혁](https://github.com/Junhyukkkk) |
+| 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 1팀 권정인 | 1팀 [@최준혁](https://github.com/Junhyukkkk) |
 
 | <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img width=150px height=150px alt="한아름" src="https://github.com/user-attachments/assets/b75460c7-eda3-4eb7-8725-6fcf5501616f" /> | <img width=150px height=150px alt="이동현" src="https://github.com/user-attachments/assets/47e7a650-4439-4a65-afa9-4926ffeb4d0e" /> |
 |:-------------------: | :-------------------: | :-------------------: | :-------------------: |
