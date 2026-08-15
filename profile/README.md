@@ -41,23 +41,27 @@
 | :---------------: |:-----------------: |:-------------------: |:-------------------: | :-------------------: |
 | 대표 [@왕효준](https://github.com/gywns0417) | 운영 [@김경욱](https://brunch.co.kr/@kimwayne)| 운영 [@최지민](https://www.notion.so/317a94449b27804087d9da2ac9865964) | 운영 [@박성령](https://github.com/sungryeong) | 운영 @정서연 |
 
-| <img width="150" height="150" alt="백자영" src="https://github.com/user-attachments/assets/d4e2b930-3f7a-4559-aabd-9fc22ab9ae4f" /> | <img width="150" height="150" alt="방지현" src="https://github.com/user-attachments/assets/4725c820-c4a9-4370-9160-1e34a8740c72" /> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |  <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | 
-| :---: | :---: | :---: | :---: |:---: |
-| 대외협력 [@백자영](https://www.linkedin.com/in/jayeong-baek-2a4569398/) | 대외협력 [@방지현](https://www.linkedin.com/in/jeehyun-bang-519027291/) | 인프라 [@강석준](https://github.com/KSJ27) | 인프라 [@허정원](https://github.com/weonyee) |  BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) |
+| <img width="150" height="150" alt="백자영" src="https://github.com/user-attachments/assets/d4e2b930-3f7a-4559-aabd-9fc22ab9ae4f" /> | <img width="150" height="150" alt="방지현" src="https://github.com/user-attachments/assets/4725c820-c4a9-4370-9160-1e34a8740c72" /> | <img src="https://avatars.githubusercontent.com/u/52899088?v=4" width=150px alt="강석준"/> | <img src="https://avatars.githubusercontent.com/u/193207778?v=4" width=150px alt="허정원"/> |
+| :---: | :---: | :---: | :---: |
+| 대외협력 [@백자영](https://www.linkedin.com/in/jayeong-baek-2a4569398/) | 대외협력 [@방지현](https://www.linkedin.com/in/jeehyun-bang-519027291/) | 인프라 [@강석준](https://github.com/KSJ27) | 인프라 [@허정원](https://github.com/weonyee) |
+
+|  <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/926e097d-c772-415b-afbc-51300ace79a9" alt="홍가민"/> |
+| :---: | :---: |
+| BX [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | BX 홍가민 |
 
 ### 메이커스 팀
 
-| <img src="https://github.com/user-attachments/assets/48a1f442-03c2-4395-91e2-50f7ed343623" width=150px alt="이재호"/> | <img src="https://avatars.githubusercontent.com/u/153643266?v=4" width=150px alt="김지훈"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="강태성"/> | 
+| <img src="https://github.com/user-attachments/assets/48a1f442-03c2-4395-91e2-50f7ed343623" width=150px alt="이재호"/> | <img src="https://avatars.githubusercontent.com/u/153643266?v=4" width=150px alt="김지훈"/> | <img src="https://avatars.githubusercontent.com/u/80230155?v=4" width=150px alt="공희상"/> | <img width=150px height=150px alt="강태성" src="https://github.com/user-attachments/assets/76279854-4f17-4e24-bd31-6552e079d3ad" /> | 
 | :---------------: |:-----------------: |:-------------------: |:-------------------: |
-| 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 [@김지훈](https://kim-jihun.com/) | 1팀 [@공희상]( https://023-dev.github.io/) | 1팀 @강태성 |
+| 1팀 [@이재호](https://udantangjaeho.tistory.com/) | 1팀 [@김지훈](https://kim-jihun.com/) | 1팀 [@공희상](https://023-dev.github.io/) | 1팀 [@강태성](https://github.com/kangkings) |
 
 | <img src="https://github.com/user-attachments/assets/4752fffd-df3b-4c65-8ae1-22f18372c488" width=150px alt="최원준"/> | <img src="https://github.com/user-attachments/assets/08168493-a344-4da9-a4df-a9b96cf04ca0" width=150px alt="권정인"/> | <img src="https://github.com/Junhyukkkk.png" width=150px height=150px alt="최준혁"/> |
 | :---: | :---: | :---: |
 | 1팀 [@최원준](https://www.linkedin.com/in/wonjun-choi-11584a280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | 1팀 @권정인 | 1팀 [@최준혁](https://github.com/Junhyukkkk) |
 
-| <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="강태성"/> | <img width="150" height="150" alt="logo_profile" src="https://github.com/user-attachments/assets/71f32ac0-378c-4570-8386-9a98eefe5c66" alt="강태성"/> |
+| <img src="https://github.com/user-attachments/assets/712ffcc7-8b9e-432f-a724-c6bab2f85302" width=150px alt="김동영"/> | <img src="https://avatars.githubusercontent.com/u/106158901?v=4" width=150px alt="문소희"/> | <img width=150px height=150px alt="한아름" src="https://github.com/user-attachments/assets/b75460c7-eda3-4eb7-8725-6fcf5501616f" /> | <img width=150px height=150px alt="이동현" src="https://github.com/user-attachments/assets/47e7a650-4439-4a65-afa9-4926ffeb4d0e" /> |
 |:-------------------: | :-------------------: | :-------------------: | :-------------------: |
-| 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 2팀 [@문소희](https://github.com/ccconac) |  2팀 [@한아름]() | 2팀 [@이동현]() | 
+| 2팀 [@김동영](https://www.figma.com/ko-kr/community/file/1547190026603503566/jds) | 2팀 [@문소희](https://github.com/ccconac) |  2팀 [@한아름](https://github.com/areumH) | 2팀 [@이동현](https://github.com/d5ng) | 
 
 <details>
   <summary><h3>4기</h3></summary>
